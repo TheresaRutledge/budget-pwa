@@ -47,5 +47,4 @@
     "start_url": ".",
     "background_color": "#000000",
     "theme_color": "#ffffff"
-    // "manifest_version": 2 //chrome requires this 
   }
