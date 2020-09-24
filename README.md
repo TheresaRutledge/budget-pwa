@@ -13,7 +13,7 @@
  ISC
 
 ## Screenshot
-![](./public/assets/images/screenshot.png)
+![](screenshot.png)
 
 ## Website
 
